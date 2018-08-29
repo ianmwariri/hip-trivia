@@ -1,0 +1,25 @@
+button{
+  font-size: 30px;
+  background-color:cyan;
+  border-radius: 8px;
+  border: 2px solid #4CAF50;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+p{
+  font-size: 25px;
+  
+}
+
+#level3Div{
+  display: none;
+}
+
+#q2-0, #q2-1, #q2-2, #q2-3{
+  display: none;
+} 
+
+
+h3{
+  font-size: 25px;
+}
